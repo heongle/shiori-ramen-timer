@@ -1,0 +1,15 @@
+{
+  "@@locale": "zh",
+  "title": "Shiori泡面计时器",
+  "about": "关于",
+  "remainingTime": "剩余时间",
+  "start": "开始",
+  "stop": "中止",
+  "type1": "声音1",
+  "type2": "声音2",
+  "type3": "声音3",
+  "type4": "声音4",
+  "usedLib": "鸣谢",
+  "license": "许可",
+  "visit": "前往"
+}

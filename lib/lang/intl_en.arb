@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "title": "Shiori Ramen Timer",
+  "about": "About",
+  "remainingTime": "Remaining Time",
+  "start": "Start",
+  "stop": "Stop",
+  "type1": "SE 1",
+  "type2": "SE 2",
+  "type3": "SE 3",
+  "type4": "SE 4",
+  "usedLib": "Acknowledgement",
+  "license": "License",
+  "visit": "Visit"
+}

@@ -1,0 +1,15 @@
+{
+  "@@locale" : "ja",
+  "title": "シオリラーメンタイマー",
+  "about": "アプリについて",
+  "remainingTime": "残り時間",
+  "start": "開始",
+  "stop": "終了",
+  "type1": "音声1",
+  "type2": "音声2",
+  "type3": "音声3",
+  "type4": "音声4",
+  "usedLib": "外部ライブラリ",
+  "license": "ライセンス",
+  "visit": "アクセス"
+}
